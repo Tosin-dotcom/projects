@@ -1,6 +1,8 @@
 import re
 
+
 print("Welcome. \nThis is a password validator software.")
+print("This software validate your password with some certain rules")
 
 valid_password = False
 while valid_password is False:
